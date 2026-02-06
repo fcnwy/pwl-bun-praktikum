@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 #Praktikum Pemrograman Web Lanjut
 Stack:
 -Bun.js
