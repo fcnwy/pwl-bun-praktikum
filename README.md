@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Praktikum Pemrograman Web Lanjut
 Stack:
 -Bun.js
@@ -9,3 +10,19 @@ Apa perbedaan Bun.js dan Node.js menurut pemahaman Anda?
 
 Mengapa Git penting dalam pengembangan perangkat lunak?
 -Git penting dalam pengembangan software untuk melacak perubahan kode, menyimpan histori pengembangan, dan juga dapat digunakan dalam kolaborasi tim. Hal ini memungkinkan perubahan dalam kode tercatat.
+=======
+# ppwl1
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.3.8. [Bun](https://bun.com) is a fast all-in-one JavaScript runtime.
